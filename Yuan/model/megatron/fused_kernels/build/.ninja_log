@@ -1,0 +1,19 @@
+# ninja log v5
+1	25557	1645797873321568747	scaled_upper_triang_masked_softmax.o	c0916ad7391d4017
+1	50249	1645797897879424303	scaled_upper_triang_masked_softmax_cuda.cuda.o	e1715ac643c185f3
+50253	50929	1645797898689419538	scaled_upper_triang_masked_softmax_cuda.so	b0958c93623f82a1
+1	17307	1645797916101317125	scaled_masked_softmax.o	75f6cdaa8577c3d8
+1	46058	1645797944694148948	scaled_masked_softmax_cuda.cuda.o	e8519d2f6d641ad5
+46059	46744	1645797945531144025	scaled_masked_softmax_cuda.so	95b592a621c10fce
+1	15923	1645797961674049076	layer_norm_cuda_kernel.cuda.o	a5224ee564f6e664
+0	18218	1645797963980035512	layer_norm_cuda.o	5f3099d340d2978a
+18218	18544	1645797964303033613	fused_mix_prec_layer_norm_cuda.so	c2f5a2a6ce96c6ec
+7	27371	1646201597730215574	scaled_upper_triang_masked_softmax.o	435a042deb8e9408
+8	54753	1646201625096060812	scaled_upper_triang_masked_softmax_cuda.cuda.o	271bea0d0d88f168
+54754	56083	1646201626436053234	scaled_upper_triang_masked_softmax_cuda.so	b0958c93623f82a1
+1	16761	1646201643478956852	scaled_masked_softmax.o	7ca3e30ca9caf349
+2	44911	1646201671609797764	scaled_masked_softmax_cuda.cuda.o	637662bd51530f64
+44912	45390	1646201672060795214	scaled_masked_softmax_cuda.so	95b592a621c10fce
+0	15268	1646201687388708530	layer_norm_cuda_kernel.cuda.o	97e7813cb8a41c3b
+1	17591	1646201689876694460	layer_norm_cuda.o	5dac71bf49fb14fe
+17591	18355	1646201690639690145	fused_mix_prec_layer_norm_cuda.so	c2f5a2a6ce96c6ec
